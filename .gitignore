@@ -1,0 +1,8 @@
+.vs
+.vscode
+
+[oO]bj
+[bB]in
+
+*.runsettings
+TestResults
