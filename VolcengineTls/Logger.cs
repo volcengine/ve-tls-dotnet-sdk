@@ -21,7 +21,6 @@ namespace VolcengineTls
     public class Logger
     {
         public string CategoryName { get; set; } = "tlsCSharpSdk";
-        // public LogLevel Level { get; set; } = LogLevel.Debug;
         public LogLevel Level { get; set; } = LogLevel.Information;
         public string TimestampFormat { get; set; } = "yyyy-MM-dd HH:mm:ss.fff";
 
