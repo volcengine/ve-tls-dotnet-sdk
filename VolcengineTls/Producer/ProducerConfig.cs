@@ -25,7 +25,7 @@ namespace VolcengineTls.Producer
         internal const long TOTAL_SIZE_IN_BYTES_DEFAULT = 100 * 1024 * 1024;
         internal const long TOTAL_SIZE_IN_BYTES_MAX = long.MaxValue;
 
-        internal const int SENDER_COUNT_DEFAULT = 50;
+        internal const int SENDER_COUNT_DEFAULT = 10;
         internal const int SENDER_COUNT_MAX = int.MaxValue;
 
         internal const int RESERVED_ATTEMPTS_DEFAUL = 11;
