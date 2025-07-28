@@ -1,5 +1,5 @@
 ﻿/*
- * Copyright (2025) Volcengine
+ * Copyright 2025 Beijing Volcano Engine Technology Ltd.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -53,7 +53,7 @@ namespace VolcengineTls.Examples
             // 启动消费者
             producer.Start();
 
-            /// 发送单挑
+            /// 发送单条
             // 构造日志
             var keyNum = 2;
             var log = new Pb.Log
