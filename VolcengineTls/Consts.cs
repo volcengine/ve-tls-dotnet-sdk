@@ -22,7 +22,7 @@ namespace VolcengineTls
         /// SDK constants
         /// </summary>
         public const string SdkName = "ve-tls-dotnet-sdk";
-        public const string SdkVersion = "v1.0.1";
+        public const string SdkVersion = "v1.0.2";
 
         /// <summary>
         /// SDK Error constants
