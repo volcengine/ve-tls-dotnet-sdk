@@ -21,11 +21,8 @@ Linux/Mac
 
 ## 获取与安装
 
-.NET Framework 4.6.2 SDK 1.0.1 托管在 NUGET 包管理平台，可通过 NUGET 安装。
+.NET Framework 4.6.2 SDK 托管在 NUGET 包管理平台，可通过 NUGET 安装。
 https://www.nuget.org/packages/VolcengineTls
-
-.NET Framework 4.6.2 SDK 1.0.2及后续版本托管在 NUGET 包管理平台，可通过 NUGET 安装。
-https://www.nuget.org/packages/Volcengine.TLS.SDK.NetFramework
 
 .NET Core SDK 托管在 NUGET 包管理平台，可通过 NUGET 安装。
 https://www.nuget.org/packages/Volcengine.TLS.SDK.NetCore
@@ -408,3 +405,7 @@ catch (TlsError e)
 ## 许可证
 
 本项目基于 **Apache License 2.0** 开源协议，详情见 `LICENSE`。
+
+## Security and privacy
+This project takes security seriously. 
+For vulnerability reporting and supported versions, see [SECURITY.md](SECURITY.md)
